@@ -362,7 +362,11 @@ header label{
     text-transform: uppercase;
 }
 
-
+.ubicacion h3{
+    font-size: 4rem;
+    color: var(--naranja);
+    text-transform: uppercase;
+}
 
 .precios .caja-contenedor{
     display: flex;
