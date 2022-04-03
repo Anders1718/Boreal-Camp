@@ -121,15 +121,18 @@ header label{
     background: url('img/inicio_fondo.png') no-repeat;
     background-size: cover;
     background-position: center;
-
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .inicio .image{
+
     text-align: center;
     position: relative;
 }
 
 .inicio .image img{
+    
     width: 90vw;
     border-radius: 2%;
     justify-content: center;
@@ -139,6 +142,7 @@ header label{
 
 
 .inicio .content h3{
+    margin-left: 5%;
     font-size: 5.5rem;
     color: var(--verde);
     text-transform: uppercase;
