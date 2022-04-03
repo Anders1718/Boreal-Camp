@@ -124,13 +124,17 @@ header label{
 
 }
 
+.inicio .image{
+    text-align: center;
+    position: relative;
+}
+
 .inicio .image img{
     width: 90vw;
     border-radius: 2%;
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-right: 5%;
 }
 
 
