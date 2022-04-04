@@ -703,9 +703,6 @@ footer .creditos{
     }
 
     .acerca_de{
-        height: auto;
-        margin-top: 0;
-        padding-top: 0;
         background-position: right;
     }
 
@@ -725,9 +722,7 @@ footer .creditos{
         margin-bottom: -150%;
     }
 
-    .acerca_de{
-        margin-bottom: -80%;
-    }
+    
 
     .acerca_de .columna .content .bottons a{
         width: 100%;
@@ -739,8 +734,5 @@ footer .creditos{
 
     }
 
-    footer{
-        margin-top: 23%;
-    }
 
 }
