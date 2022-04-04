@@ -685,6 +685,9 @@ footer .creditos{
 
     .inicio{
         flex-flow: column-reverse;
+        height: auto;
+        padding-bottom: 0;
+        margin-bottom: -50%;
     }
 
     .inicio .image img{
@@ -700,6 +703,9 @@ footer .creditos{
     }
 
     .acerca_de{
+        height: auto;
+        margin-top: 0;
+        padding-top: 0;
         background-position: right;
     }
 
