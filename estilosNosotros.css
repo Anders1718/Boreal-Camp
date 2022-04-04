@@ -721,6 +721,14 @@ footer .creditos{
 
     }
 
+    .inicio{
+        margin-bottom: -150%;
+    }
+
+    .acerca_de{
+        margin-bottom: -80%;
+    }
+
     .acerca_de .columna .content .bottons a{
         width: 100%;
         text-align: center;
@@ -729,6 +737,10 @@ footer .creditos{
     .acerca_de .columna .content .bottons a:last-child{
         margin: 1rem 0;
 
+    }
+
+    footer{
+        margin-top: 23%;
     }
 
 }
