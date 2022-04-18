@@ -207,11 +207,28 @@ header label{
 .acerca_de .columna .image{
     flex: 1 1 40rem;
     margin-right: 3%;
+    text-align: center;
 }
 
 .acerca_de .columna .image img{
     width: 100%;
     border-radius: 3%;
+}
+
+.acerca_de .columna .image i, .acerca_de2 .columna .image i {
+    font-size: 7rem;
+    color: var(--verde);
+}
+
+.acerca_de .columna .image button, .acerca_de2 .columna .image button{
+    background-color: transparent;
+    cursor: pointer;
+    margin: 1rem;
+}
+
+.acerca_de .columna .image button i:hover, .acerca_de2 .columna .image button i:hover{
+    color: aqua;
+    transition: all .8s;
 }
 
 .acerca_de .columna .content{
@@ -254,6 +271,7 @@ header label{
 .acerca_de2 .columna .image{
     flex: 1 1 40rem;
     margin-left: 3%;
+    text-align: center;
 }
 
 .acerca_de2 .columna .image img{
