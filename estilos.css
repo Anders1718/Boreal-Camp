@@ -517,6 +517,10 @@ header label{
     color: var(--naranja);
 }
 
+#no-fotos{
+    display: none;
+}
+
 footer{
     padding-top: 3rem;
     background: url(img/fondo_sub.png) no-repeat;
